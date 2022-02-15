@@ -1,0 +1,14 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:5 
+#EXT-X-MEDIA-SEQUENCE:0 
+#EXT-X-PLAYLIST-TYPE:VOD 
+#EXTINF:4.800000, 
+https://github.com/powerloadersu/powerloadersu/raw/main/720p_000.png
+#EXTINF:3.200000, 
+https://github.com/powerloadersu/powerloadersu/raw/main/720p_001.png
+#EXTINF:4.800000, 
+https://github.com/powerloadersu/powerloadersu/raw/main/720p_002.png
+#EXTINF:0.333333, 
+https://github.com/powerloadersu/powerloadersu/raw/main/720p_003.png
+#EXT-X-ENDLIST 
