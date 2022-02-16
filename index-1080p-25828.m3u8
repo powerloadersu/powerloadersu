@@ -1,0 +1,10 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:5 
+#EXT-X-MEDIA-SEQUENCE:0 
+#EXT-X-PLAYLIST-TYPE:VOD 
+#EXTINF:4.800000, 
+https://gist.githubusercontent.com/powerloadersu/1bc4fe879d51276a38cfc515ed9e84c6/raw/c4788bb47bc647b49855473c873a.png 
+#EXTINF:1.433333, 
+https://gist.githubusercontent.com/powerloadersu/1bc4fe879d51276a38cfc515ed9e84c6/raw/7346b57c7b398ab46779498c54b.png 
+#EXT-X-ENDLIST 
