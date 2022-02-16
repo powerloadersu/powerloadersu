@@ -1,0 +1,16 @@
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-TARGETDURATION:4 
+#EXT-X-MEDIA-SEQUENCE:0 
+#EXT-X-PLAYLIST-TYPE:VOD 
+#EXTINF:4.000000, 
+https://gist.githubusercontent.com/powerloadersu/855af2b6b8d730d64eccae2721703b03/raw/b7354c4cc3b79a5ca4bb3cb4bb3bbb.png 
+#EXTINF:4.000000, 
+https://gist.githubusercontent.com/powerloadersu/855af2b6b8d730d64eccae2721703b03/raw/b59b43533ba8b7c636a7693b744.png 
+#EXTINF:4.000000, 
+https://gist.githubusercontent.com/powerloadersu/855af2b6b8d730d64eccae2721703b03/raw/c94bc3b59bb6a89378a3b9cacb649.png 
+#EXTINF:4.000000, 
+https://gist.githubusercontent.com/powerloadersu/855af2b6b8d730d64eccae2721703b03/raw/bc8b3b5cac3b557b576bba87b4873.png 
+#EXTINF:2.216667, 
+https://gist.githubusercontent.com/powerloadersu/855af2b6b8d730d64eccae2721703b03/raw/b69b53b65b468bb6c65c9349b57ca.png 
+#EXT-X-ENDLIST 
